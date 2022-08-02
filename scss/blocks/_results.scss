@@ -1,0 +1,52 @@
+.results__inner {
+   padding-bottom: 144px;
+
+   .results__inner__title {
+      font-family: 'Manrope';
+      font-style: normal;
+      font-weight: 800;
+      font-size: 32px;
+      line-height: 44px;
+      letter-spacing: -0.02em;
+      color: #000000;
+      text-align: center;
+   }
+
+   .results__inner__card {
+      display: flex;
+      justify-content: space-around;
+   }
+
+   .results__inner__card__dish {
+      width: 380px;
+   }
+
+   .results__inner__card__dish__text {
+      display: flex;
+      margin-top: 12px;
+   }
+
+   .results__inner__card__dish__text__copy {
+      font-family: 'Manrope';
+      font-style: normal;
+      font-weight: 500;
+      font-size: 18px;
+      line-height: 6px;
+      color: #000000;
+      margin-left: 10px;
+      margin-top: auto;
+   }
+
+   .results__inner__card__dish__text__copy__span {
+      font-family: 'Manrope';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 22px;
+      color: #605f5f;
+   }
+
+   .line__img{
+      margin-top: 30px;
+   }
+}

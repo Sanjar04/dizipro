@@ -1,0 +1,35 @@
+.project__inner {
+   display: flex;
+   padding-bottom: 144px;
+
+   .project__inner__card {
+      background: #000000;
+      padding-top: 166.6px;
+      padding-bottom: 164px;
+      text-align: center;
+      // padding-left: 122px;
+      // padding-right: 122px;
+      width: 537px;
+      transform: translate(-90px);
+   }
+
+   .project__inner__text__title {
+      font-family: 'Manrope';
+      font-style: normal;
+      font-weight: 800;
+      font-size: 32px;
+      line-height: 44px;
+      letter-spacing: -0.02em;
+      color: #000000;
+   }
+
+   .project__inner__text__copy {
+      font-family: 'Manrope';
+      font-style: normal;
+      font-weight: 500;
+      font-size: 18px;
+      line-height: 30px;
+      width: 596px;
+      color: #000000;
+   }
+}

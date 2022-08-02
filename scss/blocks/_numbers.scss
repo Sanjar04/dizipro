@@ -1,0 +1,46 @@
+.numbers__inner {
+   padding-bottom: 144px;
+
+   .numbers__inner__title {
+      font-family: 'Manrope';
+      font-style: normal;
+      font-weight: 800;
+      font-size: 32px;
+      line-height: 44px;
+      letter-spacing: -0.02em;
+      color: #000000;
+      text-align: center;
+   }
+
+   .numbers__inner__card {
+      display: flex;
+      justify-content: space-around;
+      margin-top: 40px;
+   }
+
+   .numbers__inner__card__text__span {
+      text-align: center;
+      font-family: 'Barlow';
+      font-style: normal;
+      font-weight: 800;
+      font-size: 54px;
+      line-height: 60px;
+      letter-spacing: -0.02em;
+      color: #E50000;
+   }
+
+   .numbers__inner__card__text:nth-child(1){
+      .numbers__inner__card__text__span:nth-child(1){
+         margin-left: 80px;
+      }
+   }
+
+   .numbers__inner__card__text__copy {
+      font-family: 'Manrope';
+      font-style: normal;
+      font-weight: 500;
+      font-size: 18px;
+      line-height: 30px;
+      color: #000000;
+   }
+}

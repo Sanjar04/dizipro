@@ -1,0 +1,60 @@
+.footer {
+   background: #fafafa;
+}
+
+.footer__inner__div {
+   padding-top: 93px;
+   display: flex;
+   justify-content: space-between;
+}
+
+.footer__inner__card {
+   display: flex;
+}
+
+.footer__inner__card__text:nth-child(2) {
+   margin-left: 80px;
+}
+
+.footer__inner__card__text__link {
+   text-decoration: none;
+   font-family: 'Manrope';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 32px;
+   line-height: 30px;
+   color: #000000;
+}
+
+.footer__inner__card__text__item {
+   display: flex;
+   list-style-type: none;
+   margin-left: 0;
+}
+
+.footer__inner__card__text__item__list:nth-child(1) {
+   margin-left: 0;
+}
+
+.footer__inner__card__text__item__list {
+   margin-left: 28px;
+}
+
+.footer__inner__box {
+   display: flex;
+   margin-top: 66px;
+}
+
+.footer__inner__box__copy {
+   font-family: 'Manrope';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 13px;
+   line-height: 18px;
+   color: #000000;
+   margin-left: 8px;
+}
+
+.class{
+   margin-top: 15px;
+}
